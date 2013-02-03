@@ -1,0 +1,823 @@
+ DHL EXPRESS (HONG KONG) LIMITED            BILLING HOTLINE + 852 2400-3777
+ P.O. BOX NO 8984                           FAX + 852 2773-1577
+ GENERAL POST OFFICE                        www.dhl.com
+ HONG KONG
+
+
+
+                                                          INVOICE
+
+TECHNOPARK CO LTD                                                                         ACCOUNT NO                630817434
+                                                                                          INVOICE NO                HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                                DATE                     07/09/2012
+25 CHONG YIP ST                                                                           PAGE                              1
+KLN HK                                                                                    PAYMENT DUE                30 DAYS
+                                                                                          SALES AREA CODE                 E03
+LAUREL CHAN                                                                               REFERENCE                       AS6
+
+                                                                          REGULAR                                         NET
+DATE    ORG   HAWB NO                DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE                   CHARGE
+05/09   HKG 3467685885             AAR               1       0.5 B         156.10                                      156.10
+             FUEL SURCHARGE                                                 35.12                                       35.12
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                     191.22
+SENDER     IVAN TONG                                               RECEIVER   ZIYAD DAABAS
+           TECHNOPARK CO LTD                                                  ZIYAD DAABAS
+           RM 5-6 29/F PROSPERITY CTR                                         EDWIN RAHRSVEJ 32 15C
+           25 CHONG YIP ST                                                    BRABRAND
+           HONG KONG                                                          AARHUS
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * AARHUS, DENMARK                 1       0.5           191.22                                      191.22
+
+06/09   HKG 3470639841              ADA              1       0.5 B         170.50                                      170.50
+             FUEL SURCHARGE                                                 38.36                                       38.36
+SHIPPER REFERENCE 1346690525
+TOTAL FOR SHIPMENT                                                                                                     208.86
+SENDER     DENNIS WONG                                             RECEIVER   YASAR ILETISIM
+           TECHNOPARK CO LTD                                                  YASAR ILETISIM
+           UNIT 301 3/F HUNG TO CTR                                           CANKAYA MAH, ISTIKLAL CAD
+           94-96 HOW MING ST                                                  68/B AKDENIZ MERSIN
+           HONG KONG                                                          AKDENIZ
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * ADANA, TURKEY                   1       0.5           208.86                                      208.86
+
+04/09   HKG 3467685760              ADE              1       0.5 B         259.70                                      259.70
+             FUEL SURCHARGE                                                 58.43                                       58.43
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                     318.13
+SENDER     IVAN TONG                                               RECEIVER   SALEH MOHSIN
+           TECHNOPARK CO LTD                                                  SALEH MOHSIN
+           RM 5-6 29/F PROSPERITY CTR                                         ALMANSOORA BLOCK NO 40
+           25 CHONG YIP ST                                                    HOUSE NO 66 ADEN
+           KLN HK                                                             ADEN
+PRODUCT           EXPRESS WWIDE NONDOC
+SUB-TOTAL          * ADEN, YEMEN                     1       0.5           318.13                                      318.13
+
+03/09   HKG 3467685686            ASU                1       1.0 B         313.30                                      313.30
+            FUEL SURCHARGE                                                  70.49                                       70.49
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                     383.79
+SENDER    IVAN                                                     RECEIVER   ELVIO
+          TECHNOPARK CO LTD                                                   ELVIO
+          UNIT 301 HUNG TO CTR                                                PETIROSSI 819 C/MAYOR FLEITA LOCAL
+          94-96 HOW MING ST                                                   16 ESTUDIANTES CAPIATECOS 402
+          HONG KONG                                                           ASUNCION
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * ASUNCION, PARAGUAY              1       1.0           383.79                                      383.79
+
+04/09   HKG 9776283090            BCN                1       4.0 W         308.20                                      308.20
+            FUEL SURCHARGE                                                  69.35                                       69.35
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                     377.55
+SENDER    ANDY CHOW                                                RECEIVER   MOHSIN BENHSAIN
+          TECHNOPARK CO LTD                                                   MOHSIN BENHSAIN
+          RM 5-6 29/F PROSPERITY CTR                                          PIZA PZRIS NO 6
+          25 CHONG YIP ST                                                     LOCAL 2 LLORET DE MAR
+          HONG KONG                                                           BARCELONA
+PRODUCT         EXPRESS WWIDE NONDOC
+
+05/09   HKG 3470639745            BCN                1       3.0 W         250.80                                      250.80
+            FUEL SURCHARGE                                                  56.43                                       56.43
+SHIPPER REFERENCE 1346746234
+TOTAL FOR SHIPMENT                                                                                                     307.23
+SENDER    DENNIS WONG                                              RECEIVER   DEOGRACIAS MANRIQUE MATA
+          TECHNOPARK CO LTD                                                   EUROTEMINAL
+          UNIT 301 3F HUNG TO CTR                                             C/BOTANICA 125 HOSPITALET DE
+          94-96 HOW MING ST KWUN TONG KLN                                     LLOBREGAT
+          HONG KONG                                                           CATALONIA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * BARCELONA, SPAIN                2       7.0           684.78                                      684.78
+DHL EXPRESS (HONG KONG) LIMITED            BILLING HOTLINE + 852 2400-3777
+P.O. BOX NO 8984                           FAX + 852 2773-1577
+GENERAL POST OFFICE                        www.dhl.com
+HONG KONG
+
+
+
+                                                         INVOICE
+
+TECHNOPARK CO LTD                                                                        ACCOUNT NO              630817434
+                                                                                         INVOICE NO              HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                               DATE                   07/09/2012
+25 CHONG YIP ST                                                                          PAGE                            2
+KLN HK                                                                                   PAYMENT DUE              30 DAYS
+                                                                                         SALES AREA CODE               E03
+LAUREL CHAN                                                                              REFERENCE                     AS6
+
+                                                                         REGULAR                                       NET
+DATE    ORG   HAWB NO               DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE                 CHARGE
+05/09   HKG 3467685841             BGI              1       0.5 B         259.70                                    259.70
+             FUEL SURCHARGE                                                58.43                                     58.43
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                  318.13
+SENDER     IVAN                                                   RECEIVER   CLARKE
+           TECHNOPARK CO LTD                                                 ELAN
+           UNIT 301 HUNG TO CTR                                              27 OLD NAVY RD
+           94-96 HOW MING ST                                                 NAVY GARDENS CHRIST CHURCH
+           HONG KONG                                                         BRIDGETOWN
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * BARBADOS, BARBADOS             1       0.5           318.13                                    318.13
+
+05/09   HKG 3467685675             BHZ              1       0.5 B         259.70                                    259.70
+             FUEL SURCHARGE                                                58.43                                     58.43
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                  318.13
+SENDER     IVAN                                                   RECEIVER   RODRIGUES
+           TECHNOPARK CO LTD                                                 MARCO ANTONIO
+           UNIT 301 HUNG TO CTR                                              RUA PDRE PEDRO PINTO NUMERO 1500
+           94-96 HOW MING ST                                                 BOX 88 E 89 MINAS GERAIS
+           HONG KONG                                                         BELO HORIZONTE
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * BELO HORIZONTE                 1       0.5           318.13                                    318.13
+
+03/09   HKG 7423534731             BUD              1       1.0 B         172.60                                    172.60
+             FUEL SURCHARGE                                                38.84                                     38.84
+SHIPPER REFERENCE 1346416890
+TOTAL FOR SHIPMENT                                                                                                  211.44
+SENDER     STEVE LEE                                              RECEIVER   DAVID DANIEL
+           TECHNOPARK COMPANY LTD.                                           TELMESTER
+           RM301, 3/F HUNG TO CENTRE                                         JOZSEF KORUT 26
+           94-96 HOW MING STREET,                                            BUDAPEST
+           KWUN TONG                                                         BUDAPEST
+PRODUCT          EXPRESS WWIDE NONDOC
+
+05/09   HKG 3467685826             BUD              1       1.5 B         189.10                                    189.10
+            FUEL SURCHARGE                                                 42.55                                     42.55
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                  231.65
+SENDER    IVAN TONG                                               RECEIVER   ZSOLT VISOCZKI
+          TECHNOPARK CO LTD                                                  ZSOLT VISOCZKI
+          UNIT 301 3/F HUNG TO CTR                                           BAROSS U 232/B
+          94-96 HOW MING ST KWUN TONG KLN                                    BUDAPEST
+          HONG KONG                                                          BUDAPEST
+PRODUCT         EXPRESS WWIDE NONDOC
+
+05/09   HKG 3468055850             BUD              1       7.5 B         456.60                                    456.60
+             FUEL SURCHARGE                                               102.74                                    102.74
+SHIPPER REFERENCE 1343296789
+TOTAL FOR SHIPMENT                                                                                                  559.34
+SENDER     STEVE LEE                                              RECEIVER   FUTURE WAYS KFT
+           SKL TECHNOPARK COMPANY LTD                                        FUTURE WAYS KFT
+           2905-06 29/F PROSPERITY STREET                                    JANCSAR UTCA
+           25 CHONG YIP STREET KWUN TONG                                     15 2/11
+           HONG KONG                                                         SZEKESFEHERVAR
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * BUDAPEST, HUNGARY              3      10.0          1002.43                                   1002.43
+
+06/09   HKG 3470639804             CHC              1       2.0 B         152.60                                    152.60
+            FUEL SURCHARGE                                                 34.34                                     34.34
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                  186.94
+SENDER    STEVE LEE                                               RECEIVER   KENT SHRIMPTON
+          TECHNOPARK CO LTD                                                  ABOUT SOUND
+          RM 5-6 29/F PROSPERITY CTR                                         18 STEWART ST
+          25 CHONG YIP ST                                                    ADDINGTON
+          KLN HK                                                             CHRISTCHURCH
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * CHRISTCHURCH                   1       2.0           186.94                                    186.94
+ DHL EXPRESS (HONG KONG) LIMITED           BILLING HOTLINE + 852 2400-3777
+ P.O. BOX NO 8984                          FAX + 852 2773-1577
+ GENERAL POST OFFICE                       www.dhl.com
+ HONG KONG
+
+
+
+                                                         INVOICE
+
+TECHNOPARK CO LTD                                                                        ACCOUNT NO             630817434
+                                                                                         INVOICE NO             HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                               DATE                  07/09/2012
+25 CHONG YIP ST                                                                          PAGE                           3
+KLN HK                                                                                   PAYMENT DUE             30 DAYS
+                                                                                         SALES AREA CODE              E03
+LAUREL CHAN                                                                              REFERENCE                    AS6
+
+                                                                         REGULAR                                      NET
+DATE    ORG   HAWB NO               DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE                CHARGE
+03/09   HKG 7423561132             DCB              1       1.0 B         130.90                                   130.90
+             FUEL SURCHARGE                                                29.45                                    29.45
+SHIPPER REFERENCE 1346442464
+TOTAL FOR SHIPMENT                                                                                                 160.35
+SENDER     STEVE LEE                                              RECEIVER   LEONCIO IGNACIO RAMIREZ ANDRADE
+           TECHNOPARK COMPANY LTD.                                           LEONCIO
+           RM301, 3/F HUNG TO CENTRE                                         AV GIRASOL 3515
+           94-96 HOW MING STREET,                                            COL VISTA HERMOSA
+           KWUN TONG                                                         CORDOBA
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * CORDOBA, MEXICO                1       1.0           160.35                                   160.35
+
+05/09   HKG 3467685771              DUB             1       0.5 B         156.10                                   156.10
+             FUEL SURCHARGE                                                35.12                                    35.12
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                 191.22
+SENDER     IVAN TONG                                              RECEIVER   GERALDINE DE COURCY
+           TECHNOPARK CO LTD                                                 GERALDINE DE COURCY
+           RM 5-6 29/F PROSPERITY CTR                                        SPRING LODGE KINDLESTOWN HILL
+           25 CHONG YIP ST                                                   DEIGANY
+           KLN HK                                                            CO WICKLOW
+PRODUCT           EXPRESS WWIDE NONDOC
+SUB-TOTAL          * DUBLIN, IRELAND                1       0.5           191.22                                   191.22
+
+06/09   HKG 7427809631             ELA              1       0.5 B         114.80                                   114.80
+             FUEL SURCHARGE                                                25.83                                    25.83
+SHIPPER REFERENCE 1346883166
+TOTAL FOR SHIPMENT                                                                                                 140.63
+SENDER     STEVE LEE                                              RECEIVER   PETE PALANG
+           TECHNOPARK COMPANY LTD.                                           ALLYSON TRADING LLC
+           RM301, 3/F HUNG TO CENTRE                                         821 AUSTIN AVE.
+           94-96 HOW MING STREET,                                            UNIT 206
+           KWUN TONG                                                         INGLEWOOD CALIFORNIA
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * LOS ANGELES, USA               1       0.5           140.63                                   140.63
+
+06/09   HKG 7427928922            HAV               1       1.5 B         366.90                                   366.90
+            FUEL SURCHARGE                                                 82.55                                    82.55
+SHIPPER REFERENCE 1346447292
+TOTAL FOR SHIPMENT                                                                                                 449.45
+SENDER    STEVE LEE                                               RECEIVER   RAFAEL ALBERTO BETANCOURT LOPES
+          TECHNOPARK COMPANY LTD.                                            NIL
+          RM301, 3/F HUNG TO CENTRE                                          MANILA 106 % SANTA TERESA
+          94-96 HOW MING STREET,                                             AND SARAGOSA MUNICIPIO CERRO
+          KWUN TONG                                                          HABANA VIEJA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * HAVANA, CUBA                   1       1.5           449.45                                   449.45
+
+04/09   HKG 3467685782             HMX              1       0.5 B         116.90                                   116.90
+            FUEL SURCHARGE                                                 26.30                                    26.30
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                 143.20
+SENDER    IVAN TONG                                               RECEIVER   ANTONIO CARVAJAL WENCES
+          TECHNOPARK CO LTD                                                  ANTONIO CARVAJAL WENCS
+          RM 5-6 29/F PROSPERITY CTR                                         IIROIO # 170A COL TAMAUUPAS
+          25 CHONG YIP ST                                                    NEZAHUALCOYOTL
+          KLN HK                                                             EDO DE
+PRODUCT          EXPRESS WWIDE NONDOC
+
+04/09   HKG 3470639771             HMX              1       1.0 B         130.90                                   130.90
+            FUEL SURCHARGE                                                 29.45                                    29.45
+SHIPPER REFERENCE 1346713782
+TOTAL FOR SHIPMENT                                                                                                 160.35
+SENDER    DENNIS WONG                                             RECEIVER   MARIA CRISTINA SANCHEZ AVILEZ
+          TECHNOPARK CO LTD                                                  PROCELL
+          RM 5-6 29/F PROSPERITY CTR                                         BEZANA INCLAN 26 LOCAL 2 COL
+          25 CHONG YIP ST                                                    ALCANTORES CHALCO
+          KLN HK                                                             ESTADO DE
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * HANGARES, MEXICO               2       1.5           303.55                                   303.55
+DHL EXPRESS (HONG KONG) LIMITED             BILLING HOTLINE + 852 2400-3777
+P.O. BOX NO 8984                            FAX + 852 2773-1577
+GENERAL POST OFFICE                         www.dhl.com
+HONG KONG
+
+
+
+                                                          INVOICE
+
+TECHNOPARK CO LTD                                                                         ACCOUNT NO         630817434
+                                                                                          INVOICE NO         HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                                DATE              07/09/2012
+25 CHONG YIP ST                                                                           PAGE                       4
+KLN HK                                                                                    PAYMENT DUE         30 DAYS
+                                                                                          SALES AREA CODE          E03
+LAUREL CHAN                                                                               REFERENCE                AS6
+
+                                                                          REGULAR                                  NET
+DATE    ORG   HAWB NO                DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE            CHARGE
+03/09   HKG 7423571923            HRE                1       1.5 B         366.90                               366.90
+            REMOTE AREA SERVICE                                            180.00                               180.00
+            FUEL SURCHARGE                                                 123.05                               123.05
+SHIPPER REFERENCE 1346489712
+TOTAL FOR SHIPMENT                                                                                              669.95
+SENDER    STEVE LEE                                                RECEIVER   WELTON CHIKUNI
+          TECHNOPARK COMPANY LTD.                                             NIL
+          RM301, 3/F HUNG TO CENTRE                                           PO BOX
+          94-96 HOW MING STREET,                                              257
+          KWUN TONG                                                           MASVINGO
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * HARARE, ZIMBABWE                1       1.5           669.95                               669.95
+
+06/09   HKG 7427596890            IST                1       0.5 B         170.50                               170.50
+            FUEL SURCHARGE                                                  38.36                                38.36
+SHIPPER REFERENCE 1346799051
+TOTAL FOR SHIPMENT                                                                                              208.86
+SENDER    STEVE LEE                                                RECEIVER   MEHMET ALI YAGLI
+          TECHNOPARK COMPANY LTD.                                             NIL
+          RM301, 3/F HUNG TO CENTRE                                           ISKENDER MAH. AKSU CAD.
+          94-96 HOW MING STREET,                                              TUTUNCU APARTMANI
+          KWUN TONG                                                           ISPARTA ISPARTA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * ISTANBUL, TURKEY                1       0.5           208.86                               208.86
+
+05/09   HKG 3467685756             KIN               1       0.5 B         259.70                               259.70
+            REMOTE AREA SERVICE                                            180.00                               180.00
+            FUEL SURCHARGE                                                  98.93                                98.93
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                              538.63
+SENDER    WAN TONG                                                 RECEIVER   KEMAR HENRY
+          TECHNOPARK CO LTD                                                   KEMAR HENRY
+          RM 5-6 29/F PROSPERITY CTR                                          MORANT BAY SHOPPING PALZA
+          25 CHONG YIP ST                                                     ST THOMAS
+          KLN HK                                                              MORANT BAY
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * KINGSTON, JAMAICA               1       0.5           538.63                               538.63
+
+03/09   HKG 7423583543            KIX                1       2.0 B         140.50                               140.50
+            REMOTE AREA SERVICE                                            180.00                               180.00
+            FUEL SURCHARGE                                                  72.11                                72.11
+SHIPPER REFERENCE 1346376902
+TOTAL FOR SHIPMENT                                                                                              392.61
+SENDER    STEVE LEE                                                RECEIVER   AKIO TAMARI
+          TECHNOPARK COMPANY LTD.                                             AKIO TAMARI
+          RM301, 3/F HUNG TO CENTRE                                           SETO-TOWN JITOUBU 442-1
+          94-96 HOW MING STREET,                                              WALD FORNEB201
+          KWUN TONG                                                           FUKUYAMA HIROSHIMA
+PRODUCT         EXPRESS WWIDE NONDOC
+
+04/09   HKG 3467685723             KIX               1       1.0 B         108.90                               108.90
+            REMOTE AREA SERVICE                                            180.00                               180.00
+            FUEL SURCHARGE                                                  65.00                                65.00
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                              353.90
+SENDER    IVAN TONG                                                RECEIVER   AKIO TAMARI
+          TECHNOPARK CO LTD                                                   AKIO TAMARI
+          RM 5-6 29/F PROSPERITY CTR                                          SETO TOWN JITOUBU 442-1
+          25 CHONG YIP ST                                                     WALD FORNEB 201 FUKUYAMA
+          KLN HK                                                              HIROSHIMA HIROSHIMA
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * KANSAI, JAPAN                   2       3.0           746.51                               746.51
+ DHL EXPRESS (HONG KONG) LIMITED            BILLING HOTLINE + 852 2400-3777
+ P.O. BOX NO 8984                           FAX + 852 2773-1577
+ GENERAL POST OFFICE                        www.dhl.com
+ HONG KONG
+
+
+
+                                                          INVOICE
+
+TECHNOPARK CO LTD                                                                          ACCOUNT NO         630817434
+                                                                                           INVOICE NO         HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                                 DATE              07/09/2012
+25 CHONG YIP ST                                                                            PAGE                       5
+KLN HK                                                                                     PAYMENT DUE         30 DAYS
+                                                                                           SALES AREA CODE          E03
+LAUREL CHAN                                                                                REFERENCE                AS6
+
+                                                                          REGULAR                                   NET
+DATE    ORG   HAWB NO                DEST       PIECE     WEIGHT           CHARGE       DISCOUNT CODE            CHARGE
+03/09   HKG 3470639793              LIL              1       0.5 B         156.10                                156.10
+             FUEL SURCHARGE                                                 35.12                                 35.12
+SHIPPER REFERENCE 1346589522
+TOTAL FOR SHIPMENT                                                                                               191.22
+SENDER     DENNIS WONG                                             RECEIVER    BAZZOUH MOHAMED
+           TECHNOPARK CO LTD                                                   BAZZOUH MOHAMED
+           UNIT 301 3/F HUNG TO CTR                                            2 RUE DU CABARET DE LA
+           94-96 HOW MING ST                                                   FEMME APPT 65 PICARDY
+           HONG KONG                                                           AMIENS
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * LILLE, FRANCE                   1       0.5           191.22                                191.22
+
+06/09   HKG 3470639815              LLW              1       1.5 B         366.90                                366.90
+             FUEL SURCHARGE                                                 82.55                                 82.55
+SHIPPER REFERENCE 1346696575
+TOTAL FOR SHIPMENT                                                                                               449.45
+SENDER     DENNIS                                                  RECEIVER    FISTON EPHREM
+           TECHNOPARK CO LTD                                                   BM ELECTRONICS
+           UNIT 301 HUNG TO CTR                                                SOSI RESTHOUSE AREA 2
+           94-96 HOW MING ST                                                   LILONGWE
+           HONG KONG                                                           LILONGWE
+PRODUCT           EXPRESS WWIDE NONDOC
+SUB-TOTAL          * LILONGWE, MALAWI                1       1.5           449.45                                449.45
+
+06/09   HKG 3470639852              LPB              1       4.0 B         768.10                                768.10
+             FUEL SURCHARGE                                                172.82                                172.82
+SHIPPER REFERENCE 1346288325
+TOTAL FOR SHIPMENT                                                                                               940.92
+SENDER     DENNIS WONG                                             RECEIVER    SAMUEL GONZALES MONTECINOS
+           TECHNOPARK CO LTD                                                   GONZALES
+           UNIT 301 3/F HUNG TO CTR                                            COMERCIO NO 866
+           94-96 HOW MING ST                                                   AV MARCELO QUIROGA MURILLO
+           HONG KONG                                                           LA PAZ
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * LA PAZ, BOLIVIA                 1       4.0           940.92                                940.92
+
+04/09   HKG 3467685745            NRT                1       1.0 B         108.90                                108.90
+            REMOTE AREA SERVICE                                            180.00                                180.00
+            FUEL SURCHARGE                                                  65.00                                 65.00
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                               353.90
+SENDER    IVAN TONG                                                RECEIVER    SATORU TANABE
+          TECHNOPARK CO LTD                                                    SATORU TANABE
+          94-96 HOW MING ST                                                    2-7-10 MISUGIDAI
+          UNIT 301 3F HUNG TO CTR KWUN TONG                                    SAITAMA
+          HONG KONG                                                            HANNOU SAITAMA
+PRODUCT         EXPRESS WWIDE NONDOC
+
+06/09   HKG 7427587845            NRT                1       0.5 B            93.10                               93.10
+            FUEL SURCHARGE                                                    20.95                               20.95
+SHIPPER REFERENCE 1346812331
+TOTAL FOR SHIPMENT                                                                                               114.05
+SENDER    STEVE LEE                                                RECEIVER    ARLENE HARA
+          TECHNOPARK COMPANY LTD.                                              AELENE HARA
+          RM301, 3/F HUNG TO CENTRE                                            654 OTSU
+          94-96 HOW MING STREET,                                               CHIKUSEI
+          KWUN TONG                                                            CHIKUSEI IBARAKI
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * DHL JAPAN INC                   2       1.5           467.95                                467.95
+ DHL EXPRESS (HONG KONG) LIMITED           BILLING HOTLINE + 852 2400-3777
+ P.O. BOX NO 8984                          FAX + 852 2773-1577
+ GENERAL POST OFFICE                       www.dhl.com
+ HONG KONG
+
+
+
+                                                         INVOICE
+
+TECHNOPARK CO LTD                                                                        ACCOUNT NO         630817434
+                                                                                         INVOICE NO         HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                               DATE              07/09/2012
+25 CHONG YIP ST                                                                          PAGE                       6
+KLN HK                                                                                   PAYMENT DUE         30 DAYS
+                                                                                         SALES AREA CODE          E03
+LAUREL CHAN                                                                              REFERENCE                AS6
+
+                                                                         REGULAR                                  NET
+DATE    ORG   HAWB NO               DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE            CHARGE
+05/09   HKG 3467685712              NTE             1       1.5 B         189.10                               189.10
+             FUEL SURCHARGE                                                42.55                                42.55
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                             231.65
+SENDER     IVAN TONG                                              RECEIVER   RABEHI HOUCINE
+           TECHNOPARK CO LTD                                                 RABEHI HOUCINE
+           RM 5-6 29/F PROSPERITY CTR                                        2 PLACE DE I ECLUSE
+           25 CHONG YIP ST                                                   NANTES
+           KLN HK                                                            PAYS DE LA LOIRE
+PRODUCT           EXPRESS WWIDE NONDOC
+SUB-TOTAL          * NANTES, FRANCE                 1       1.5           231.65                               231.65
+
+06/09   HKG 9776283053             ORY              1       0.5 B         156.10                               156.10
+             FUEL SURCHARGE                                                35.12                                35.12
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                             191.22
+SENDER     ANDY CHOW                                              RECEIVER   SALERNO MATHIAS
+           TECHNOPARK CO LTD                                                 SALERNO MATHIAS
+           301 HUNG TO CTR                                                   16 ALLEE LOUIS BRAILLE
+           94-96 HOW MING ST                                                 ILE-DE-FRANCE
+           HONG KONG                                                         LAGNY
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * ORLY, FRANCE                   1       0.5           191.22                               191.22
+
+05/09   HKG 3468055846             PDX              1       1.0 B         128.50                               128.50
+             FUEL SURCHARGE                                                28.91                                28.91
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                             157.41
+SENDER     STEVE LEE                                              RECEIVER   ALFRED NURNBERGER
+           TECHNOPARK CO LTD                                                 TELTRUST CORP
+           RM 5-6 29/F PROSPERITY CTR                                        2684 SW BUCKINGHAM AVE
+           25 CHONG YIP ST                                                   PORTLAND
+           HONG KONG                                                         PORTLAND OR OREGON
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * PORTLAND, OR USA               1       1.0           157.41                               157.41
+
+04/09   HKG 9776283075            PHX               1       1.5 B         142.20                               142.20
+            FUEL SURCHARGE                                                 32.00                                32.00
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                             174.20
+SENDER    ANDY CHOW                                               RECEIVER   MIREK CHUMAN
+          TECHNOPARK CO LTD                                                  MIREK CHUMAN
+          301 HUNG TO CTR                                                    147 S ABALONE DR
+          94-96 HOW MING ST                                                  GILBERT
+          HONG KONG                                                          GILBERT AZ ARIZONA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * PHOENIX, AZ USA                1       1.5           174.20                               174.20
+
+06/09   HKG 7427863170            PMI               2      14.5 W         683.50                               683.50
+            FUEL SURCHARGE                                                153.79                               153.79
+SHIPPER REFERENCE 1346513593
+TOTAL FOR SHIPMENT                                                                                             837.29
+SENDER    STEVE LEE                                               RECEIVER   EMILIO MUNOZ MARTIN
+          TECHNOPARK COMPANY LTD.                                            TELIBERO.COM
+          RM301, 3/F HUNG TO CENTRE                                          AVENIDA ARGENTINA, 28
+          94-96 HOW MING STREET,                                             PALMA DE MALLORCA
+          KWUN TONG                                                          PALMA DE MALLORCA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * PALMA DE MALLORCA              2      14.5           837.29                               837.29
+ DHL EXPRESS (HONG KONG) LIMITED           BILLING HOTLINE + 852 2400-3777
+ P.O. BOX NO 8984                          FAX + 852 2773-1577
+ GENERAL POST OFFICE                       www.dhl.com
+ HONG KONG
+
+
+
+                                                         INVOICE
+
+TECHNOPARK CO LTD                                                                        ACCOUNT NO                  630817434
+                                                                                         INVOICE NO                  HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                               DATE                       07/09/2012
+25 CHONG YIP ST                                                                          PAGE                                7
+KLN HK                                                                                   PAYMENT DUE                  30 DAYS
+                                                                                         SALES AREA CODE                   E03
+LAUREL CHAN                                                                              REFERENCE                         AS6
+
+                                                                         REGULAR                                           NET
+DATE    ORG   HAWB NO               DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE                     CHARGE
+05/09   HKG 3467685863             PTP              1       1.0 B         313.30                                        313.30
+             FUEL SURCHARGE                                                70.49                                         70.49
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                      383.79
+SENDER     IVAN                                                   RECEIVER   JIMMY
+           TECHNOPARK CO LTD                                                 LENO
+           UNIT 301 HUNG TO CTR                                              62 RESIDENSE LA LEZARDE BASSE
+           94-96 HOW MING ST                                                 LEZARDE
+           HONG KONG                                                         PETIT BOURG
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * POINTE-A-PITRE                 1       1.0           383.79                                        383.79
+
+05/09   HKG 3467685734              RRO             1       0.5 B         156.10                                        156.10
+             FUEL SURCHARGE                                                35.12                                         35.12
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                      191.22
+SENDER     IVAN TONG                                              RECEIVER   LUCA FACCHIANO
+           TECHNOPARK CO LTD                                                 LUCA FACCHIANO
+           RM 5-6 29/F PROSPERITY CTR                                        VIA CARDINAL PACCA 5
+           25 CHONG YIP ST                                                   CAMPANIA
+           KLN HK                                                            BENEVENTO
+PRODUCT           EXPRESS WWIDE NONDOC
+
+06/09   HKG 9776283031             RRO              1       0.5 B         156.10                                        156.10
+            FUEL SURCHARGE                                                 35.12                                         35.12
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                      191.22
+SENDER    ANDY CHOW                                               RECEIVER   VINCENZO
+          TECHNOPARK CO LTD                                                  VINCENZO RUSSOMANDO
+          RM 5-6 29/F PROSPERITY CTR                                         VIA TAVERNE 24
+          25 CHONG YIP ST                                                    NOCERA SUPERIORE
+          KLN HK                                                             SOLERNO
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * SORRENTO, ITALY                2       1.0           382.44                                        382.44
+
+04/09   HKG 3470639760            SAL               1       4.5 B         866.10                                        866.10
+            FUEL SURCHARGE                                                194.87                                        194.87
+SHIPPER REFERENCE 1346084320
+TOTAL FOR SHIPMENT                                                                                                     1060.97
+SENDER    DENNIS WONG                                             RECEIVER   CHARLY OSMIN MARTUEZ   ELIAS
+          TECHNOPARK CO LTD                                                  CHARLY OSMIN MARTUEZ   ELIAS
+          94-96 HOW MING ST                                                  BARRIO SAN FRANCISCO   5 CALLE NORTE
+          UNIT 301 3F HUNG TO CTR                                            LOCAL #2 ENTRENTE DE   DESPENSA
+          HONG KONG                                                          SAN SALVADOR
+PRODUCT         EXPRESS WWIDE NONDOC
+
+05/09   HKG 3467685690              SAL             1       0.5 B         259.70                                        259.70
+             FUEL SURCHARGE                                                58.43                                         58.43
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                      318.13
+SENDER     IVAN TONG                                              RECEIVER   JORGE ERNESTO RIVAS
+           TECHNOPARK CO LTD                                                 JORGE ERNESTO RIVAS
+           RM 5-6 29/F PROSPERITY CTR                                        EL SALVADOR SAN SALVADOR COLONIA
+           25 CHONG YIP ST                                                   LAS MARGARITAS 4 ETAPA PASJE 31
+           KLN HK                                                            SAN SALVADOR
+PRODUCT           EXPRESS WWIDE NONDOC
+SUB-TOTAL          * SAN SALVADOR                   2       5.0          1379.10                                       1379.10
+
+06/09   HKG 7427779995            SOU               1       1.0 B         172.60                                        172.60
+            FUEL SURCHARGE                                                 38.84                                         38.84
+SHIPPER REFERENCE 1346838864
+TOTAL FOR SHIPMENT                                                                                                      211.44
+SENDER    STEVE LEE                                               RECEIVER   DARREN KIDD
+          TECHNOPARK COMPANY LTD.                                            UNLOCKINGSHOP
+          RM301, 3/F HUNG TO CENTRE                                          25 PULLMAN DRIVE
+          94-96 HOW MING STREET,                                             .
+          HONG KONG                                                          SOUTHAMPTON
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * SOUTHAMPTON, U.K.              1       1.0           211.44                                        211.44
+ DHL EXPRESS (HONG KONG) LIMITED            BILLING HOTLINE + 852 2400-3777
+ P.O. BOX NO 8984                           FAX + 852 2773-1577
+ GENERAL POST OFFICE                        www.dhl.com
+ HONG KONG
+
+
+
+                                                          INVOICE
+
+TECHNOPARK CO LTD                                                                         ACCOUNT NO            630817434
+                                                                                          INVOICE NO            HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                                DATE                 07/09/2012
+25 CHONG YIP ST                                                                           PAGE                          8
+KLN HK                                                                                    PAYMENT DUE            30 DAYS
+                                                                                          SALES AREA CODE             E03
+LAUREL CHAN                                                                               REFERENCE                   AS6
+
+                                                                          REGULAR                                     NET
+DATE    ORG   HAWB NO                DEST       PIECE     WEIGHT           CHARGE      DISCOUNT CODE               CHARGE
+06/09   HKG 3470639830              STI              1       0.5 B         259.70                                  259.70
+             FUEL SURCHARGE                                                 58.43                                   58.43
+SHIPPER REFERENCE 1346892656
+TOTAL FOR SHIPMENT                                                                                                 318.13
+SENDER     DENNIS WONG                                             RECEIVER   EDGAR MORA
+           TECHNOPARK CO LTD                                                  EDGAR MORA
+           UNIT 301 3/F HUNG TO CTR                                           AR MONS TOMAS FRELH
+           94-96 HOW MING ST                                                  EDI 57 APTO 202 CIRCUNARLACION
+           HONG KONG                                                          SANTIAGO
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * SANTIAGO, DOMINICAN             1       0.5           318.13                                  318.13
+
+06/09   HKG 3470639826             SUV               1       1.5 B         136.50                                  136.50
+             FUEL SURCHARGE                                                 30.71                                   30.71
+SHIPPER REFERENCE 1346820219
+TOTAL FOR SHIPMENT                                                                                                 167.21
+SENDER     DENNIS WONG                                             RECEIVER   HON KEONG YUEN
+           TECHNOPARK CO LTD                                                  VALUEFONE LTD
+           301 HUNG TO CTR                                                    86 CUMMING STREET
+           94-96 HOW MING ST                                                  SUVA
+           HONG KONG                                                          SUVA
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * SUVA, FIJI ISLANDS              1       1.5           167.21                                  167.21
+
+03/09   HKG 3470639756             SYD               1       2.5 B         168.70                                  168.70
+             FUEL SURCHARGE                                                 37.96                                   37.96
+SHIPPER REFERENCE 1346252101
+TOTAL FOR SHIPMENT                                                                                                 206.66
+SENDER     DENNIS WONG                                             RECEIVER   SYSTEMCRAFT JEMAS STEVENSON
+           TECHNOPARK CO LTD                                                  SYSTEMCRAFT JEMAS STEVENSON
+           94-96 HOW MING ST                                                  23 NORTON ST
+           HONG KONG                                                          LEICHHARDT NSW 2040
+           HONG KONG                                                          LEICHHARDT
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * SYDNEY, AUSTRALIA               1       2.5           206.66                                  206.66
+
+03/09   HKG 7423551693            TEQ                1       1.5 B         214.70                                  214.70
+            FUEL SURCHARGE                                                  48.31                                   48.31
+SHIPPER REFERENCE 1346419992
+TOTAL FOR SHIPMENT                                                                                                 263.01
+SENDER    STEVE LEE                                                RECEIVER   ISMAIL YESILMEN
+          TECHNOPARK COMPANY LTD.                                             NIL
+          RM301, 3/F HUNG TO CENTRE                                           CYRPYCY MAH. 75/2 SOK.
+          94-96 HOW MING STREET,                                              NO:183 Z.BURNU/ISTANBUL
+          KWUN TONG                                                           ISTANBUL KOCAMUSTAFAPASA FATIH
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * ISTANBUL WEST                   1       1.5           263.01                                  263.01
+
+03/09   HKG 7423468570            TMB                1       6.0 W         324.90                                  324.90
+            FUEL SURCHARGE                                                  73.10                                   73.10
+SHIPPER REFERENCE 1344223664
+TOTAL FOR SHIPMENT                                                                                                 398.00
+SENDER    DENNIS WONG                                              RECEIVER   MARTHA BETANCOURT
+          TECHNOPARK CO., LTD                                                 DEAL ENTERPRISES CORP
+          RM301, 3/F, HUNG TO CENTRE                                          1055 WEST 29 ST SUIT 1
+          HOW MING STREET, KWUN TONG                                          HIALEAH,FL
+          HONG KONG                                                           HIALEAH FL FLORIDA
+PRODUCT         EXPRESS WWIDE NONDOC
+
+05/09   HKG 3467685793             TMB               1       0.5 B         116.90                                  116.90
+            FUEL SURCHARGE                                                  26.30                                   26.30
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                 143.20
+SENDER    IVAN TONG                                                RECEIVER   MARIO ARMAS
+          TECHNOPARK CO LTD                                                   MARIO ARMAS
+          UNIT 301 3/F HUNG TO CTR                                            7555 SW 152 AVE
+          94-96 HOW MING ST                                                   APTO E-106
+          HONG KONG                                                           MIAMI FL FLORIDA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * MIAMI, FL US                    2       6.5           541.20                                  541.20
+DHL EXPRESS (HONG KONG) LIMITED             BILLING HOTLINE + 852 2400-3777
+P.O. BOX NO 8984                            FAX + 852 2773-1577
+GENERAL POST OFFICE                         www.dhl.com
+HONG KONG
+
+
+
+                                                          INVOICE
+
+TECHNOPARK CO LTD                                                                         ACCOUNT NO              630817434
+                                                                                          INVOICE NO              HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                                DATE                   07/09/2012
+25 CHONG YIP ST                                                                           PAGE                            9
+KLN HK                                                                                    PAYMENT DUE              30 DAYS
+                                                                                          SALES AREA CODE               E03
+LAUREL CHAN                                                                               REFERENCE                     AS6
+
+                                                                          REGULAR                                       NET
+DATE    ORG   HAWB NO              DEST         PIECE     WEIGHT           CHARGE      DISCOUNT CODE                 CHARGE
+03/09   HKG 3470639734             UAQ               1       1.0 B         313.30                                    313.30
+             FUEL SURCHARGE                                                 70.49                                     70.49
+SHIPPER REFERENCE 1546443320
+TOTAL FOR SHIPMENT                                                                                                   383.79
+SENDER     DENNIS WONG                                             RECEIVER   JULIO LESAR FLORES
+           TECHNOPARK CO LTD                                                  JULIO LESAR FLORES
+           RM 5-6 29/F PROSPERITY CTR                                         RIO BERMEUO 1246 BM MORENO
+           25 CHONG YIP ST                                                    HIGPOTO TRIGYOYEN 1126 GALERIA
+           HONG KONG                                                          NORTE DEL PAIS
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * NORTE DEL PAIS                  1       1.0           383.79                                    383.79
+
+03/09   HKG 7423523004             UIO               1       1.5 B         366.90                                    366.90
+             FUEL SURCHARGE                                                 82.55                                     82.55
+SHIPPER REFERENCE 1346444580
+TOTAL FOR SHIPMENT                                                                                                   449.45
+SENDER     STEVE LEE                                               RECEIVER   RENE CANETE
+           TECHNOPARK COMPANY LTD.                                            RACB CONSULTING
+           RM301, 3/F HUNG TO CENTRE                                          JOSE BORRERO Y AV. 10 DE AGOSTO
+           94-96 HOW MING STREET,                                             CJTO. CIUDAD MEDITERRANEO BLOQUE
+           KWUN TONG                                                          QUITO
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * QUITO, ECUADOR                  1       1.5           449.45                                    449.45
+
+03/09   HKG 7423504782             VIE               1      10.0 B         547.60                                    547.60
+             FUEL SURCHARGE                                                123.21                                    123.21
+SHIPPER REFERENCE 1346326500
+TOTAL FOR SHIPMENT                                                                                                   670.81
+SENDER     STEVE LEE                                               RECEIVER   ZEMANEK FLORIAN FLORIAN
+           TECHNOPARK COMPANY LTD.                                            ZEMANEK FLORIAN FLORIAN
+           RM301, 3/F HUNG TO CENTRE                                          OBERWALTERSDORFERSTR. 73
+           94-96 HOW MING STREET,                                             TRIBUSWINKEL
+           KWUN TONG                                                          TRIBUSWINKEL
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * VIENNA, AUSTRIA                 1      10.0           670.81                                    670.81
+
+01/09   HKG 7422200435            VIX                1       2.5 W         474.10                                    474.10
+            FUEL SURCHARGE                                                 106.67                                    106.67
+SHIPPER REFERENCE 1345218183, 1344882715
+TOTAL FOR SHIPMENT                                                                                                   580.77
+SENDER    DENNIS WONG                                              RECEIVER   ANDERSON FERRARI
+          TECHNOPARK CO., LTD                                                 ANDERSON FERRARI
+          RM301, 3/F, HUNG TO CENTRE                                          RUA JACINTO BASSETI 899 NOSSA
+          HOW MING STREET, KWUN TONG                                          SENHORA APARECIDA
+          HONG KONG                                                           COLATINA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * VITORIA, BRAZIL                 1       2.5           580.77                                    580.77
+
+03/09   HKG 9776282994            YLW                1       0.5 B         116.90                                    116.90
+            FUEL SURCHARGE                                                  26.30                                     26.30
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                   143.20
+SENDER    ANDY CHOW                                                RECEIVER   ASHLEIGH SIMPSON
+          TECHNOPARK CO LTD                                                   CELL WERX
+          301 HUNG TO CTR                                                     116-1588 SPALL RD
+          94-96 HOW MING ST                                                   KELOWNA BC
+          HONG KONG                                                           KELOWNA
+PRODUCT         EXPRESS WWIDE NONDOC
+SUB-TOTAL          * KELOWNA AREA, CANADA            1       0.5           143.20                                    143.20
+DHL EXPRESS (HONG KONG) LIMITED             BILLING HOTLINE + 852 2400-3777
+P.O. BOX NO 8984                            FAX + 852 2773-1577
+GENERAL POST OFFICE                         www.dhl.com
+HONG KONG
+
+
+
+                                                          INVOICE
+
+TECHNOPARK CO LTD                                                                         ACCOUNT NO            630817434
+                                                                                          INVOICE NO            HKG576470
+RM 5-6 29/F PROSPERITY CTR                                                                DATE                 07/09/2012
+25 CHONG YIP ST                                                                           PAGE                         10
+KLN HK                                                                                    PAYMENT DUE            30 DAYS
+                                                                                          SALES AREA CODE             E03
+LAUREL CHAN                                                                               REFERENCE                   AS6
+
+                                                                          REGULAR                                     NET
+DATE    ORG   HAWB NO              DEST         PIECE     WEIGHT           CHARGE      DISCOUNT CODE               CHARGE
+03/09   HKG 3467685701             YVR               1       0.5 B         116.90                                  116.90
+             FUEL SURCHARGE                                                 26.30                                   26.30
+SHIPPER REFERENCE
+TOTAL FOR SHIPMENT                                                                                                 143.20
+SENDER     IVAN TONG                                               RECEIVER   RAVI BHATOA
+           TECHNOPARK CO LTD                                                  RAVI BHATOA
+           RM 5-6 29/F PROSPERITY CTR                                         202 1279 80 TH AVE
+           25 CHONG YIP ST                                                    SURREY
+           HONG KONG                                                          SURREY
+PRODUCT          EXPRESS WWIDE NONDOC
+SUB-TOTAL          * BRITISH COLUMBIA                1       0.5           143.20                                  143.20
+SUB-TOTAL         ** EXPRESS WWIDE NONDOC           52      96.0         16887.07                                16887.07
+
+                  TOTAL FOR INVOICE                 51      96.0         16887.07                                16887.07
+
+                                                                                     TOTAL   HKD                 16887.07
+
+
+
+
+No receipt will be issued.    Please refer to monthly statement for payment records.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+Please send cheque with this REMITTANCE ADVICE.
+
+                                                                              TECHNOPARK CO LTD
+                                                                              RM 5-6 29/F PROSPERITY CTR
+                                                                              25 CHONG YIP ST
+                                                                              KLN HK HK
+
+
+DHL EXPRESS (HONG KONG) LIMITED                                                              ACCOUNT NO         630817434
+P.O. BOX NO. 8984                                                                            INVOICE NO         HKG576470
+GENERAL POST OFFICE                                                                          DATE              07/09/2012
+HONG KONG                                                                                    PAYMENT DUE         30 DAYS
+ATTN: CUSTOMER ACCOUNTING DEPT                                                               AMOUNT DUE HKD      16887.07
+                                                                                             SALES AREA CODE          E03
+
+
+
+
+  s
+33H 630817434HKG576470070912000168870710
+
